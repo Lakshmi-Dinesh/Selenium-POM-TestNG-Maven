@@ -18,6 +18,7 @@ import com.crm.qa.utilities.SeleniumActions;
 import com.crm.qa.utilities.TestUtils;
 import com.crm.qa.utilities.WebDriverListener;
 
+//remote user test comment added from github
 public class TestBase {
 
 	protected static WebDriver driver;
